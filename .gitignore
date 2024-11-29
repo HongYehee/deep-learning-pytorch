@@ -1,0 +1,14 @@
+*.pdf
+
+day1_assignment.ipynb
+day2_assignment.ipynb
+day3_assignment.ipynb
+day4_assignment.ipynb
+day5_assignment.ipynb
+
+day1_solution.ipynb
+day2_solution.ipynb
+day3_solution.ipynb
+day4_solution.ipynb
+
+.DS_Store
