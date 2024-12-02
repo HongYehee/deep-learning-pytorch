@@ -1,0 +1,14 @@
+jupyter==1.0.0
+matplotlib
+pandas
+konlpy
+gensim==3.8.3
+torchtext==0.6.0
+librosa
+sounddevice
+openpyxl
+PyQt5
+pyqtgraph
+pyaudio
+dill
+nltk
